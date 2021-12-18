@@ -1,0 +1,13 @@
+Package: com.hunganhhumg.afc2
+Name: Apple File Conduit 2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a sample old package. Firmware should be lower than 7.0
+Maintainer: hunganhhumg <hunganhhumg@gmail.com>
+Author: hunganhhumg <hunganhhumg@gmail.com>
+Section: Tweaks
+Filename: ./debs/AFC.deb
+Size: 14486
+MD5sum: C57F2A538B007E8F655DDCB3140804A1
+SHA1: 39AE9A6107AE67236EC5011530B08EF594248341
+SHA256: 488E4E86A97BDFCB12C396D14C9BC3E8666E810C5435023D7D8B530B5924E391
