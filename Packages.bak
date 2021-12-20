@@ -1,0 +1,27 @@
+Package: com.hunganhhumg.afc2
+Name: Apple File Conduit 2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: truy cập file mở rộng iphone trên máy tính. Chỉnh sửa file hệ thống, hack game.
+Maintainer: hunganhhumg <hunganhhumg@gmail.com>
+Author: hunganhhumg <hunganhhumg@gmail.com>
+Section: Tweaks
+Filename: ./debs/AFC.deb
+Size: 14486
+MD5sum: C57F2A538B007E8F655DDCB3140804A1
+SHA1: 39AE9A6107AE67236EC5011530B08EF594248341
+SHA256: 488E4E86A97BDFCB12C396D14C9BC3E8666E810C5435023D7D8B530B5924E391
+
+Package: com.hunganhhumg.lockdown
+Name: Lockdown
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Cài đặt mật khẩu màn hình cho thiết bị chạy chip A11 trở lên, jailbreak bằng checkra1n.
+Maintainer: hunganhhumg <hunganhhumg@gmail.com>
+Author: hunganhhumg <hunganhhumg@gmail.com>
+Section: Theme
+Filename: ./debs/Lockdown.deb
+Size: 19684
+MD5sum: 91081BA41060FCF5816D767297B3AE62
+SHA1: 9D0908F8F852110D401FD5E11B90A0E916BE65FF
+SHA256: 182EF44C2B53D04185B918103717705C8489A550D1064F725C2FB00E75B6CBE5
